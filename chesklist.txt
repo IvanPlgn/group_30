@@ -1,0 +1,17 @@
+Environment	Emulator Android Studio, Galaxy Nexus API 28, Android 9.0		
+Tester	Ivan Piliuhin (telegram - @ivan_plgn)		
+			
+id	Check	Result	- Comment
+1	Install apk file - passed	
+2	Allow the app to access photos, media, and files on device - passed	
+3	Tap the button "add widget" - passed	
+4	Move widget to empty screen - passed	
+5	Add more widgets - passed	
+6	Move and resize widgets in random way - passed	
+7	Check the white dash line is present and located on the borders of the widget (layouts, screen zoom, font size) - failed	
+8	Tap the button "save data" - passed	
+9	Tap the button "send email" - passed	
+10	Remove widgets from the desktop - passed	
+11	Tap the button "clear data" - passed	
+12	Delete the app - passed	
+
